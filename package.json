@@ -1,9 +1,9 @@
 {
-  "description": "uw-publishing",
+  "description": "uw-api",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phillip-hopper/uw-publishing"
+    "url": "https://github.com/unfoldingWord-dev/uw-api"
   },
   "dependencies": {
     "less": ">2.5.0",

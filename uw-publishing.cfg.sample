@@ -1,8 +1,0 @@
-DATASERVER = 'localhost'
-DATABASE = 'publish'
-USERNAME = 'publish'
-PASSWORD = 'password'
-
-SECRET_KEY = 'development key'
-DEBUG = True
-
