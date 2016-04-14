@@ -1,5 +1,6 @@
 # uw-publishing
 
+https://docs.google.com/document/d/1m4sqsWOu4oq9TQqtfTpewE5bu6qjGcBUEM3kNv7zH4s/edit#heading=h.w8k9mjed2t18
 
 ### PGSQL settings
 
